@@ -9,7 +9,7 @@ namespace CloaksPlus
         {
             foreach (char ch in text + "\n")
             {
-                Thread.Sleep(25);
+                // Thread.Sleep(25);
                 Console.Write(ch);
             }
         }

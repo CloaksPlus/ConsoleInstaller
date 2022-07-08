@@ -5,3 +5,11 @@ C:\Users\maxzl\source\repos\CloaksPlus\CloaksPlus\obj\Debug\CloaksPlus.csproj.Co
 C:\Users\maxzl\source\repos\CloaksPlus\CloaksPlus\obj\Debug\CloaksPlus.exe
 C:\Users\maxzl\source\repos\CloaksPlus\CloaksPlus\obj\Debug\CloaksPlus.pdb
 C:\Users\maxzl\source\repos\CloaksPlus\CloaksPlus\obj\Debug\CloaksPlus.csproj.AssemblyReference.cache
+C:\Users\Quack\Documents\GitHub\ConsoleInstaller\ConsoleInstaller\CloaksPlus\obj\Debug\CloaksPlus.exe
+C:\Users\Quack\Documents\GitHub\ConsoleInstaller\ConsoleInstaller\CloaksPlus\obj\Debug\CloaksPlus.pdb
+C:\Users\Quack\Documents\GitHub\ConsoleInstaller\ConsoleInstaller\CloaksPlus\bin\Debug\CloaksPlus.exe.config
+C:\Users\Quack\Documents\GitHub\ConsoleInstaller\ConsoleInstaller\CloaksPlus\bin\Debug\CloaksPlus.exe
+C:\Users\Quack\Documents\GitHub\ConsoleInstaller\ConsoleInstaller\CloaksPlus\bin\Debug\CloaksPlus.pdb
+C:\Users\Quack\Documents\GitHub\ConsoleInstaller\ConsoleInstaller\CloaksPlus\obj\Debug\CloaksPlus.csproj.AssemblyReference.cache
+C:\Users\Quack\Documents\GitHub\ConsoleInstaller\ConsoleInstaller\CloaksPlus\obj\Debug\CloaksPlus.csproj.SuggestedBindingRedirects.cache
+C:\Users\Quack\Documents\GitHub\ConsoleInstaller\ConsoleInstaller\CloaksPlus\obj\Debug\CloaksPlus.csproj.CoreCompileInputs.cache
